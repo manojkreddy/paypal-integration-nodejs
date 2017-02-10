@@ -22,8 +22,8 @@ var config = {
   "api" : {
     "host" : "api.sandbox.paypal.com",
     "port" : "",            
-    "client_id" : "ARhrVOM_ihiY28Z94spYtr7h2LGqgyimiBtpMYKv3uIZ6UfBq0R4QV2697k-T84P-ZUDdVKYrBZNn3gC",  // your paypal application client id
-    "client_secret" : "EC0TfqOb9okbyrlH1hgaoNnMHBGx8Ay-QoZfVzAEmYz9BI69Szi4x5sqyMVxiwfbzsc30AcK0i9-5723" // your paypal application secret id
+    "client_id" : "MY_KEY",  // your paypal application client id
+    "client_secret" : "MY_KEY" // your paypal application secret id
   }
 }
  
