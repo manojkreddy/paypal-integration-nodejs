@@ -1,0 +1,13 @@
+{
+  "name": "NodeJs-Paypal",
+  "version": "0.0.1",
+  "description": "Paypal Integration using Nodejs",
+  "author": "Amit Mishra",
+  "author-URI": "developeramitmishra.tk",
+  "git": "https://github.com/Developer-Amit",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "paypal-rest-sdk": "^1.6.0"
+  }
+}
