@@ -1,1 +1,5 @@
-<script></script>
+<script>
+
+var http=require('http');
+var dat = "manoj";
+</script>
